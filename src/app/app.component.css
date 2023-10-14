@@ -1,0 +1,14 @@
+.fechar-modal {
+    display: flex;
+    justify-content: end;    
+}
+
+.form-tarefa {
+    margin-top: 20px;   
+    display: flex; 
+    justify-content: center;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
